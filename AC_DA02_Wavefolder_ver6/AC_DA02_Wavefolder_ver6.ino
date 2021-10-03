@@ -3,7 +3,7 @@
 //
 //  Program: AC_DA02_Wavefolder
 //
-//  Description: A wavefolder-esque program based on Dirty Mirror by The Tuesday Night Machines #TTNM
+//  Description: A waveshaper-esque program based on Dirty Mirror by The Tuesday Night Machines #TTNM
 //
 //  Demo video: 
 //
